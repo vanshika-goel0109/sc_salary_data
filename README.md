@@ -1,12 +1,12 @@
 # Salary Data Explorations
 
-This is a project to explore the SC Salary data. The provided through the state's Tranparency portal: https://www.admin.sc.gov/transparency/transparency-portal.
+This is a project to explore the SC Salary data. The provided through the state's Transparency portal: https://www.admin.sc.gov/transparency/transparency-portal.
 
 There are two sets of files currently in the `raw_data` directory: salary csv files, and state employee counts by agency.
 
 Files before July 2019 were pulled from Archive.org's copy of the site. There are some points in which the CSV file links appear to have been broken and so some files may be missing.
 
-Please also note that the SC State Accountablitity Portal provides a careful descripion of the limits of this information, including agencies not included, and agencies not providing full details about all compensation. To fully understand the limits of accuracy please review that source for details.
+Please also note that the SC State Accountability Portal provides a careful descripion of the limits of this information, including agencies not included, and agencies not providing full details about all compensation. To fully understand the limits of accuracy please review that source for details.
 
 ## Data Files
 
